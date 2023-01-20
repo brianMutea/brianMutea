@@ -15,10 +15,10 @@
 <br><br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianMutea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-# I have skills in:
+<!-- # I have skills in:
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,tensorflow&theme=dark)](https://skillicons.dev)
-
+ -->
 <br>
 
 🥤Cheers 🙂
