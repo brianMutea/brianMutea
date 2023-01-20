@@ -17,7 +17,7 @@
 
 # I have skills in:
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,matplotlib)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,tensorflow&theme=dark)](https://skillicons.dev)
 
 <br>
 
