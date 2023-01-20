@@ -18,7 +18,7 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,TensorFlow, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,TensorFlow)](https://skillicons.dev)
 
 <br>
 
