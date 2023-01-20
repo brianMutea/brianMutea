@@ -13,12 +13,11 @@
 </div>
 
 <br><br>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianMutea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianMutea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+# I have skills in:
 
-# Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,TensorFlow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,matplotlib)](https://skillicons.dev)
 
 <br>
 
