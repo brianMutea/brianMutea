@@ -18,7 +18,6 @@
 # I have skills in:
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,tensorflow&theme=dark)](https://skillicons.dev)
-[](https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg)
 
 <br>
 
