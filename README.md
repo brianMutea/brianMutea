@@ -12,6 +12,14 @@
 </div>
 </div>
 
+<h2> Talks about: </h2>
+  <ul>
+    <li>Data Science</li>
+    <li>Machine Learning</li>
+    <li>Artificial Intelligence</li>
+    <li>Any Vectorized Bag of Words..</li>   
+  </ul>
+
 <div align='center'>
 <img src="https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=800"/>
 
