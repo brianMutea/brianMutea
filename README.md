@@ -19,7 +19,6 @@
     <li>Artificial Intelligence(AI)</li>
     <li>Techinical Writing(Content Creation)</li>
     <li>
-      </br>
       ...
       </br>
       ...
