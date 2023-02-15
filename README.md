@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<h2> Talks about: </h2>
+<h2> Brian is open to: </h2>
   <ul>
     <li>Data Science(DS)</li>
     <li>Machine Learning(ML)</li>
@@ -25,7 +25,7 @@
       </br>
       ...
       </br>
-    <li>Any Vectorized Bag of Words...🙂</li>   
+    <li>Any { Lemmatized } Bag of Words...🙂</li>   
   </ul>
 </br>
 <div>
@@ -41,6 +41,6 @@
  -->
 <br>
 
-🥤Cheers 🙂
+Ignite 🧨 🙂
 
 
