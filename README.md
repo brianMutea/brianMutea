@@ -14,11 +14,16 @@
 
 <h2> Talks about: </h2>
   <ul>
-    <li>Data Science</li>
-    <li>Machine Learning</li>
-    <li>Artificial Intelligence</li>
+    <li>Data Science(DS)</li>
+    <li>Machine Learning(ML)</li>
+    <li>Artificial Intelligence(AI)</li>
     <li>Techinical Writing(Content Creation)</li>
-    <li>Any Vectorized Bag of Words..</li>   
+    <li><pre>
+    ...
+    ...
+    ...
+    </pre>
+    <li>Any Vectorized Bag of Words...🙂</li>   
   </ul>
 </br>
 <div>
