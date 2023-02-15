@@ -16,6 +16,7 @@
   <ul>
     <li>Data Science(DS)</li>
     <li>Machine Learning(ML)</li>
+    <li>Deep Learning(DL)</li>
     <li>Artificial Intelligence(AI)</li>
     <li>Techinical Writing(Content Creation)</li>
     <li>
