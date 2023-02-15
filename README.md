@@ -21,8 +21,11 @@
     <li>
       </br>
       ...
+      </br>
       ...
+      </br>
       ...
+      </br>
     <li>Any Vectorized Bag of Words...🙂</li>   
   </ul>
 </br>
