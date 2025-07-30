@@ -18,15 +18,9 @@
     <li>Machine Learning(ML)</li>
     <li>Deep Learning(DL)</li>
     <li>Artificial Intelligence(AI)</li>
+    <li>LLMs(AI)</li>
+    <li>Agents</li>
     <li><strong>Techinical Writing(Content Creation)</strong></li>
-    <li>
-      ...
-      </br>
-      ...
-      </br>
-      ...
-      </br>
-    <li>Any { Lemmatized } Bag of Words...🙂</li>   
   </ul>
 </br>
 <div>
