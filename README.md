@@ -43,13 +43,8 @@ content that helps developers understand complex ideas.
   </li>
 </ul>
 
-<p style="margin-top: 1em;">
-Here’s a tiny peek at the kind of mischief I get up to with Python and JavaScript:
-</p>
-</br>
-
 <div style="margin-top: 0.5em; padding:1em; background-color:#1e1e1e; color:#d4d4d4; font-family: 'Fira Code', monospace; border-radius:8px; overflow-x:auto; font-size:0.9em;">
-<pre>
+<pre><code class="language-python">
 # Python: making AI slightly less confused ☕
 from llm_sdk import LLMClient
 
@@ -61,13 +56,15 @@ def coffee_for_ai(level='strong'):
     return response.text
 
 print(coffee_for_ai("strong"))
+</code></pre>
 
-# JavaScript: pretending async is easy 🍵
+<pre><code class="language-javascript">
+// JavaScript: pretending async is easy 🍵
 async function makeTea() {
     return "Brewed after a promise or two";
 }
 makeTea().then(console.log);
-</pre>
+</code></pre>
 </div>
 
 </br>
