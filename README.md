@@ -58,14 +58,15 @@ def coffee_for_ai(level='strong'):
 print(coffee_for_ai("strong"))
 ```
 
+---
+
 ```javascript
 // JavaScript: pretending async is easy 🍵
 async function makeTea() {
-return "Brewed after a promise or two";
+    return "Brewed after a promise or two";
 }
 
 makeTea().then(console.log);
-```
 
 </br>
 <div>
