@@ -12,16 +12,36 @@
 </div>
 </div>
 
-<h2> Brian is open to: </h2>
-  <ul>
-    <li>Data Science(DS)</li>
-    <li>Machine Learning(ML)</li>
-    <li>Deep Learning(DL)</li>
-    <li>Artificial Intelligence(AI)</li>
-    <li>LLMs(AI)</li>
-    <li>Agents</li>
-    <li><strong>Techinical Writing(Content Creation)</strong></li>
-  </ul>
+<p>
+Brian is interested in working on projects at the intersection of data science,
+machine learning, and modern AI systems. He enjoys building intelligent tools,
+experimenting with LLM-powered applications, and writing clear technical
+content that helps developers understand complex ideas.
+</p>
+
+<ul>
+  <li>
+    <strong>Data Science and Machine Learning</strong> using Python, NumPy,
+    Pandas, scikit-learn + a bunch of other tools on demand
+  </li>
+  <li>
+    <strong>Deep Learning</strong> with frameworks such as TensorFlow and PyTorch
+  </li>
+  <li>
+    <strong>Artificial Intelligence</strong>, including Large Language Models,
+    AI agents, Chatbots and modern AI application development
+  </li>
+  <li>
+    <strong>LLM APIs and AI tooling</strong> such as LangChain, Hugging Face, PineCone, Weaviate, OpenAI APIs etc
+  </li>
+  <li>
+    <strong>Experimentation and prototyping</strong> of intelligent systems and
+    data-driven applications
+  </li>
+  <li>
+    <strong>Technical Writing</strong> and developer-focused content creation
+  </li>
+</ul>
 </br>
 <div>
 <img src="https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=200"/>
