@@ -42,6 +42,12 @@ content that helps developers understand complex ideas.
     <strong>Technical Writing</strong> and developer-focused content creation
   </li>
 </ul>
+
+<p style="margin-top: 1em; font-style: italic;">
+Proficient in Python and its ecosystem of frameworks, as well as JavaScript
+and modern JS frameworks for web and AI integration.
+</p>
+
 </br>
 <div>
 <img src="https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=200"/>
