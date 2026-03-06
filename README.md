@@ -43,10 +43,32 @@ content that helps developers understand complex ideas.
   </li>
 </ul>
 
-<p style="margin-top: 1em; font-style: italic;">
-Proficient in Python and its ecosystem of frameworks, as well as JavaScript
-and modern JS frameworks for web and AI integration.
+<p style="margin-top: 1em;">
+Here’s a tiny peek at the kind of mischief I get up to with Python and JavaScript:
 </p>
+</br>
+
+<div style="margin-top: 0.5em; padding:1em; background-color:#1e1e1e; color:#d4d4d4; font-family: 'Fira Code', monospace; border-radius:8px; overflow-x:auto; font-size:0.9em;">
+<pre>
+# Python: making AI slightly less confused ☕
+from llm_sdk import LLMClient
+
+client = LLMClient(api_key="YOUR_API_KEY")
+
+def coffee_for_ai(level='strong'):
+    prompt = f"Rate my need for {level} coffee to focus on AI tasks."
+    response = client.generate_response(prompt)
+    return response.text
+
+print(coffee_for_ai("strong"))
+
+# JavaScript: pretending async is easy 🍵
+async function makeTea() {
+    return "Brewed after a promise or two";
+}
+makeTea().then(console.log);
+</pre>
+</div>
 
 </br>
 <div>
