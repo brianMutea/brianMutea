@@ -43,9 +43,9 @@ content that helps developers understand complex ideas.
   </li>
 </ul>
 
-<div style="margin-top: 0.5em; padding:1em; background-color:#1e1e1e; color:#d4d4d4; font-family: 'Fira Code', monospace; border-radius:8px; overflow-x:auto; font-size:0.9em;">
-<pre><code class="language-python">
+```python
 # Python: making AI slightly less confused ☕
+# Example LLM call using a generic client
 from llm_sdk import LLMClient
 
 client = LLMClient(api_key="YOUR_API_KEY")
@@ -56,16 +56,14 @@ def coffee_for_ai(level='strong'):
     return response.text
 
 print(coffee_for_ai("strong"))
-</code></pre>
+```
 
-<pre><code class="language-javascript">
 // JavaScript: pretending async is easy 🍵
 async function makeTea() {
     return "Brewed after a promise or two";
 }
+
 makeTea().then(console.log);
-</code></pre>
-</div>
 
 </br>
 <div>
