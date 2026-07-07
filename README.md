@@ -60,14 +60,6 @@ print(coffee_for_ai("strong"))
 
 ---
 
-```javascript
-// JavaScript: pretending async is easy 🍵
-async function makeTea() {
-    return "Brewed after a promise or two";
-}
-
-makeTea().then(console.log);
-```
 </br>
 <div>
 <img src="https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=200"/>
@@ -81,7 +73,5 @@ makeTea().then(console.log);
 [![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,tensorflow&theme=dark)](https://skillicons.dev)
  -->
 <br>
-
-Ignite 🧨 🙂
 
 
