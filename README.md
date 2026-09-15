@@ -43,35 +43,6 @@ content that helps developers understand complex ideas.
   </li>
 </ul>
 
-```python
-# Python: making AI slightly less confused ☕
-# Example LLM call using a generic client
-from llm_sdk import LLMClient
-
-client = LLMClient(api_key="YOUR_API_KEY")
-
-def coffee_for_ai(level='strong'):
-    prompt = f"Rate my need for {level} coffee to focus on AI tasks."
-    response = client.generate_response(prompt)
-    return response.text
-
-print(coffee_for_ai("strong"))
-```
+### **Visit [MY PORTFOLIO](https://brianmutea.vercel.app/) for writing sample, skills and experience.**
 
 ---
-
-</br>
-<div>
-<img src="https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=200"/>
-</div>
-
-<br><br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianMutea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- # I have skills in:
-
-[![My Skills](https://skillicons.dev/icons?i=js,python,javascript,php,css,tensorflow&theme=dark)](https://skillicons.dev)
- -->
-<br>
-
-
