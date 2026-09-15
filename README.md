@@ -13,10 +13,10 @@
 </div>
 
 <p>
-Brian is interested in working on projects at the intersection of data science,
-machine learning, and modern AI systems. He enjoys building intelligent tools,
-experimenting with LLM-powered applications, and writing clear technical
-content that helps developers understand complex ideas.
+Brian works at the intersection of machine learning, data science, and modern
+AI systems. He focuses on building practical AI and LLM-powered applications,
+exploring emerging AI tools and technologies, and creating clear, developer-focused
+technical content that turns complex concepts into practical knowledge.
 </p>
 
 <ul>
@@ -29,7 +29,7 @@ content that helps developers understand complex ideas.
   </li>
   <li>
     <strong>Artificial Intelligence</strong>, including Large Language Models,
-    AI agents, Chatbots and modern AI application development
+    AI agents, Chatbots, and modern AI application development
   </li>
   <li>
     <strong>LLM APIs and AI tooling</strong> such as LangChain, Hugging Face, PineCone, Weaviate, OpenAI APIs etc
@@ -43,6 +43,6 @@ content that helps developers understand complex ideas.
   </li>
 </ul>
 
-### **Visit [MY PORTFOLIO](https://brianmutea.vercel.app/) for writing sample, skills and experience.**
+### **Visit [MY PORTFOLIO](https://brianmutea.vercel.app/) for writing samples, skills and experience.**
 
 ---
